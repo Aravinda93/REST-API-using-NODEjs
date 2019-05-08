@@ -29,3 +29,4 @@ PRIMARY KEY CLUSTERED
 GO
 
 INSERT some values into both of these tables and you are good to go.
+This is very simple app, Happy coding :)
